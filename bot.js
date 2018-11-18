@@ -59,4 +59,4 @@ message.delete();
 //BY.MR.client
 
 });//BY.MR.client
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.TOKEN);
